@@ -1,0 +1,4 @@
+﻿  LineaDDA.cpp
+D:\OpenGL\Practicas\Practica01\Practica01\LineaDDA.cpp(90,16): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\OpenGL\Practicas\Practica01\Practica01\LineaDDA.cpp(113,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Practica01.vcxproj -> D:\OpenGL\Practicas\Practica01\Debug\Practica01.exe
